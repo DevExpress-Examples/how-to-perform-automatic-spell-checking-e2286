@@ -9,7 +9,7 @@
 When the [DevExpress ASP.NET Web Forms Spell Checker](https://docs.devexpress.com/AspNet/3686/components/spell-checker) finds a word missing from dictionaries, the control displays the check spelling form. This form allows users to correct, skip, or ignore the word. In this example, the [ASPxSpellChecker](https://docs.devexpress.com/AspNet/3686/components/spell-checker) control corrects spelling automatically.
 
 > [!NOTE]
-> In the example, the Spell Checker replaces a misspelled word with the first word from the suggestion list. As a result, the control may correct words improperly.
+> In the example, the Spell Checker replaces a misspelled word with the first word from the suggestion list. As a result, the control may correct words incorrectly.
 
 ![Correct Spelling Automatically with DevExpress ASP.NET Web Forms Spell Checker](/spell-checker-correct-spelling.gif)
 
