@@ -29,7 +29,7 @@ When the [DevExpress ASP.NET Web Forms Spell Checker](https://docs.devexpress.co
 - [ASP.NET Web Forms Spell Checker - How to retrieve and display misspelled words](https://github.com/DevExpress-Examples/how-to-retrieve-a-list-of-misspelled-words-and-display-them-in-a-label-e2822?tab=readme-ov-file)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-perform-automatic-spell-checking-e2286&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-perform-automatic-spell-checking-e2286&~~~was_helpful=no)
 
